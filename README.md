@@ -1,1 +1,1 @@
-## Helping build an interplanetary payment network 🔭
+helping build an interplanetary payment network
